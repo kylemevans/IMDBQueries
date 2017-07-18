@@ -1,0 +1,3 @@
+# IMDB Queries
+
+A variety of SQL queries that ask fun questions about the historical data of IMDB's massive movie database. The queries become much more complex as more difficult questions are asked. This was originally completed as a homework assignment for CSE 414: Database Systems at UW, and the queries were run on an instance of the Microsoft Azure Cloud hosting IMDB's historical data. This Azure Cloud instance is no longer existant, but these queries can be tested and verified by downloading the IMDB database using the [imdbpy2sql.py script available here](http://imdbpy.sourceforge.net/docs/README.sqldb.txt).
